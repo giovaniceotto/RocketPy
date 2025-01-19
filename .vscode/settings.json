@@ -286,6 +286,7 @@
         "statsmodels",
         "STFT",
         "subintervals",
+        "supremum",
         "suptitle",
         "supxlabel",
         "supylabel",
