@@ -239,6 +239,7 @@
         "Projeto",
         "prometheus",
         "pydata",
+        "pydocstyle",
         "pylint",
         "PYPI",
         "pyplot",
